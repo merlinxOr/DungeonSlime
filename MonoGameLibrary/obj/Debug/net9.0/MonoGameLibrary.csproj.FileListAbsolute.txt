@@ -1,0 +1,13 @@
+/home/david/workspace/DungeonSlime/MonoGameLibrary/bin/Debug/net9.0/MonoGameLibrary.deps.json
+/home/david/workspace/DungeonSlime/MonoGameLibrary/bin/Debug/net9.0/MonoGameLibrary.dll
+/home/david/workspace/DungeonSlime/MonoGameLibrary/bin/Debug/net9.0/MonoGameLibrary.pdb
+/home/david/workspace/DungeonSlime/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.csproj.AssemblyReference.cache
+/home/david/workspace/DungeonSlime/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/workspace/DungeonSlime/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.AssemblyInfoInputs.cache
+/home/david/workspace/DungeonSlime/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.AssemblyInfo.cs
+/home/david/workspace/DungeonSlime/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.csproj.CoreCompileInputs.cache
+/home/david/workspace/DungeonSlime/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.sourcelink.json
+/home/david/workspace/DungeonSlime/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.dll
+/home/david/workspace/DungeonSlime/MonoGameLibrary/obj/Debug/net9.0/refint/MonoGameLibrary.dll
+/home/david/workspace/DungeonSlime/MonoGameLibrary/obj/Debug/net9.0/MonoGameLibrary.pdb
+/home/david/workspace/DungeonSlime/MonoGameLibrary/obj/Debug/net9.0/ref/MonoGameLibrary.dll

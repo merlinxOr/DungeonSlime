@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonSlime", "DungeonSlime\DungeonSlime.csproj", "{6A4B5225-EC41-42AF-BA81-E64DEA51B3EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameLibrary", "MonoGameLibrary\MonoGameLibrary.csproj", "{B6D7110C-1BA4-48BF-BD59-AA1219227BE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{6A4B5225-EC41-42AF-BA81-E64DEA51B3EE}.Release|x64.Build.0 = Release|Any CPU
 		{6A4B5225-EC41-42AF-BA81-E64DEA51B3EE}.Release|x86.ActiveCfg = Release|Any CPU
 		{6A4B5225-EC41-42AF-BA81-E64DEA51B3EE}.Release|x86.Build.0 = Release|Any CPU
+		{B6D7110C-1BA4-48BF-BD59-AA1219227BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D7110C-1BA4-48BF-BD59-AA1219227BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D7110C-1BA4-48BF-BD59-AA1219227BE7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B6D7110C-1BA4-48BF-BD59-AA1219227BE7}.Debug|x64.Build.0 = Debug|Any CPU
+		{B6D7110C-1BA4-48BF-BD59-AA1219227BE7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B6D7110C-1BA4-48BF-BD59-AA1219227BE7}.Debug|x86.Build.0 = Debug|Any CPU
+		{B6D7110C-1BA4-48BF-BD59-AA1219227BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D7110C-1BA4-48BF-BD59-AA1219227BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D7110C-1BA4-48BF-BD59-AA1219227BE7}.Release|x64.ActiveCfg = Release|Any CPU
+		{B6D7110C-1BA4-48BF-BD59-AA1219227BE7}.Release|x64.Build.0 = Release|Any CPU
+		{B6D7110C-1BA4-48BF-BD59-AA1219227BE7}.Release|x86.ActiveCfg = Release|Any CPU
+		{B6D7110C-1BA4-48BF-BD59-AA1219227BE7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
